@@ -9,7 +9,6 @@
   background: rgba(0, 0, 0, .8);
   background: url("./image/hero.jpg") center center no-repeat;
   z-index: 1;
-  
 }
 
 .nav {
@@ -17,7 +16,6 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  
 }
 
 .sign-in a {
@@ -45,21 +43,21 @@
   font-size: 26px;
   padding-bottom: 20px;
 }
- form input {
+.from-header{
    width: 300px;
    font-size: 16px;
    padding: 20px 25px;
    min-width: 450px;
-   position: relative;
-  right:  100px;
+  position: relative;
+  right:  38px;
  
  }
- .try-free {
+ .try-free1 {
    color: #fffffe;
    background-color: #e50914;
    padding: 22px 55px;
    text-decoration: none;
-   margin-left: -55;
+   margin-left: -60;
    position: absolute;
   right: 295px;
  }
@@ -234,4 +232,21 @@ ul li {
 }
 ul li:first-child {
   padding-bottom: 15px;
+}
+.from-footer{
+  width: 300px;
+   font-size: 16px;
+   padding: 20px 25px;
+   min-width: 450px;
+  position: relative;
+  right:  78px;
+}
+.try-free {
+  color: #fffffe;
+   background-color: #e50914;
+   padding: 22px 55px;
+   text-decoration: none;
+   margin-left: -60;
+   position: absolute;
+  right: 395px;
 }
