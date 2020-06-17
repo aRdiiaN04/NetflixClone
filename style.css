@@ -61,7 +61,7 @@
    position: absolute;
   right: 295px;
  }
- .try-free a{
+ .try-free1 a{
      font-size: 30px;
  }
  .hero p {
@@ -240,6 +240,7 @@ ul li:first-child {
    min-width: 450px;
   position: relative;
   right:  78px;
+  overflow: hidden;
 }
 .try-free {
   color: #fffffe;
@@ -248,5 +249,5 @@ ul li:first-child {
    text-decoration: none;
    margin-left: -60;
    position: absolute;
-  right: 395px;
-}
+   right: 139px;
+  }
